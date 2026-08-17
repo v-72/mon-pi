@@ -1,4 +1,4 @@
-# mon-pi
+# pi-mon
 
 Raspberry Pi resource monitoring dashboard.
 
